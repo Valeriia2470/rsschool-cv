@@ -8,11 +8,9 @@
 3. Skills:
  * Basic knowledge Python
  * Basic knowledge HTML
-4. Code example:
- lmcldmcldmv
-5. Education:
+4. Education:
  * studing at Ca' Foscari university 
  * studing in RSschool
-6. Languages:
+5. Languages:
  * Russian (native)
  * English (IELTS, B2)
