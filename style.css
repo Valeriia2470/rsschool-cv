@@ -1,0 +1,37 @@
+<style>
+html, body {
+    width: 70%;
+    height: 100%;
+    margin: 1px auto;
+    padding: 1px;
+    background-color: white;
+}
+.words{
+    text-align: left;
+    float: left;
+    position: static;
+    top: 10px;
+}
+.numbers{
+    text-align: right;
+    float: right;
+    position: static;
+    top: 10px;
+}
+table {
+    background-color: rgba(248, 248, 248, 1);
+    background-image: radial-gradient(circle at 5% 60%, rgba(240, 224, 75, 1), rgba(248, 248, 248, 1), transparent 70%);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.table-fixed {
+    table-layout: fixed;
+}
+td {
+    padding: 1px;
+    padding-left: 0.00001px;
+}
+ul {
+    margin-left: 1px;
+}
+</style>
